@@ -1,0 +1,1033 @@
+[
+    {
+        "pmid": "41757682",
+        "title": "Efficient Serum Metabolic Fingerprints for Ectopic Pregnancy Diagnosis and Rupture Risk Prediction.",
+        "authors": [
+            "Zhang",
+            "Gu",
+            "Li",
+            "Fan",
+            "Yuan",
+            "Cao",
+            "Lu",
+            "Wang",
+            "Ni",
+            "Liu",
+            "Huang",
+            "Yang",
+            "Wang",
+            "Li",
+            "Yang",
+            "Liu",
+            "Wu",
+            "Qian",
+            "Wang"
+        ],
+        "abstract": "Ectopic pregnancy (EP) is a leading cause of maternal morbidity and mortality in early pregnancy. Current diagnostic approaches, which rely on ultrasound scanning and blood measurements, are limited by low detection sensitivity. Herein, we propose a one-step system that uses EP-associated serum metabolic fingerprints (ESF) for efficient EP diagnosis and risk prediction. The system employs nanoparticle-assisted laser desorption/ionization mass spectrometry to rapidly record ESF. A machine learning-based diagnostic model was then used to analyze ESF from 722 participants, achieving an area under the curve (AUC) of 0.913. Simultaneously, potential metabolic biomarkers from ESF were annotated, enabling accurate diagnosis of EP across various clinical profiles (AUC 0.922). Moreover, a rupture risk prediction model was constructed, yielding an AUC of 0.885, significantly surpassing conventional clinical indicators (AUC 0.702, p < 0.05). Our work offers a rapid, effective tool for early EP diagnosis and risk stratification, marking a pivotal advancement toward precision diagnostics.",
+        "publication_year": "2026",
+        "journal": "Small methods"
+    },
+    {
+        "pmid": "41756279",
+        "title": "The dual roles of exosomes in prostate cancer: mechanisms in tumorigenesis and avenues for clinical translation.",
+        "authors": [
+            "Yu",
+            "Zhou",
+            "Wei",
+            "Wu",
+            "Fan",
+            "Ran",
+            "Zhang"
+        ],
+        "abstract": "Prostate cancer (PCa) management remains challenged by tumor heterogeneity, unpredictable progression, and limitations in early detection, driving demand for innovative biological insights. As pivotal mediators of intercellular communication, exosomes exhibit dualistic roles in PCa pathogenesis and therapy. While acting as 'foes' by facilitating epithelial-mesenchymal transition (EMT), angiogenesis, tumor microenvironment formation, metastasis, immune evasion, and therapy resistance, they concurrently serve as 'friends' through their diagnostic and therapeutic potential. Exosome-derived biomarkers enable non-invasive liquid biopsy for early diagnosis, risk stratification, and treatment monitoring. Moreover, engineered exosomes function as targeted drug carriers, delivering precision therapeutics to overcome treatment barriers. This review systematically examines exosomal biogenesis, isolation methodologies, and their bidirectional regulation in PCa progression, while exploring emerging diagnostic and therapeutic applications to advance exosome-mediated precision oncology.",
+        "publication_year": "2026",
+        "journal": "Frontiers in immunology"
+    },
+    {
+        "pmid": "41756254",
+        "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
+        "authors": [
+            "Chen",
+            "Yang",
+            "He"
+        ],
+        "abstract": "The LKB1-AMPK signaling pathway is a master regulator of cellular energy homeostasis and a central hub in stress adaptation. As a conserved metabolic sensor, this pathway coordinates glucose, lipid, and protein metabolism, thereby sustaining physiological function across diverse tissues. Beyond its canonical role in energy balance, growing evidence highlights its dysregulation in multiple pathological conditions. Despite extensive mechanistic studies, the disease-specific regulation and translational potential of the LKB1-AMPK pathway remain incompletely understood. This review systematically studies the molecular basis and regulatory mechanisms of LKB1-AMPK signaling in cardiovascular diseases-including atrial fibrillation, ventricular fibrillation, myocardial infarction, cardiac hypertrophy, heart failure, and atherosclerosis-where impaired pathway activity underlies energy deficits, fibrosis, oxidative stress, and arrhythmogenesis. We further explore its involvement in metabolic disorders such as diabetes and diabetic nephropathy, in neurodegenerative diseases like Alzheimer's and Parkinson's disease, and in oncology, where LKB1 mutations drive tumorigenesis and alter therapeutic responses. Emerging strategies, including metformin, novel AMPK activators, and LKB1-based gene therapies, are highlighted as promising yet challenged by tissue specificity, off-target effects, and genetic variation. By integrating insights from cardiovascular, metabolic, neurological, and oncological research, this review underscores the pathway's potential as both a biomarker source and therapeutic target, providing a foundation for precision medicine in complex diseases.",
+        "publication_year": "2026",
+        "journal": "MedComm"
+    },
+    {
+        "pmid": "41755346",
+        "title": "Predictive biomarkers for immunotherapy response in ovarian cancer: the role of repair assisted damage detection (RADD).",
+        "authors": [
+            "Ruscito",
+            "Russo",
+            "Apostol",
+            "Marraffa",
+            "Cefaliello",
+            "Boccia",
+            "Sassu",
+            "Fagotti",
+            "Marchetti"
+        ],
+        "abstract": "",
+        "publication_year": "2026",
+        "journal": "Expert review of clinical pharmacology"
+    },
+    {
+        "pmid": "41754942",
+        "title": "Artificial Intelligence in Lung Cancer: A Narrative Review of Recent Advances in Diagnosis, Biomarker Discovery, and Drug Development.",
+        "authors": [
+            "Basety",
+            "Gudepu",
+            "Velidandi"
+        ],
+        "abstract": "This review highlights the rapidly evolving role of artificial intelligence (AI) in transforming lung cancer care, with a specific focus on its integrated applications across diagnosis, biomarker discovery, and drug development. The novelty of this work lies in its holistic examination of how AI bridges these traditionally separate domains, from radiology and pathology to genomics and clinical trials, to create a more cohesive and personalized oncology pipeline. We detail how AI algorithms significantly enhance early detection by improving the accuracy and efficiency of pulmonary nodule characterization on computed tomography scans and enable precise cancer subtyping via computational pathology. In biomarker discovery, AI-driven analysis of radiomic features and genomic data facilitates the non-invasive prediction of tumor genotype, PD-L1 expression, and immunotherapy response, moving beyond invasive tissue biopsies. Furthermore, AI is accelerating the drug development lifecycle by identifying novel therapeutic targets and optimizing patient selection for clinical trials. The review also explores AI's critical role in personalizing treatment regimens, including predicting outcomes for radiotherapy and immunotherapy, thereby tailoring therapy to individual patient profiles. We critically address the challenges of clinical translation, including model interpretability, data standardization, and ethical considerations, which are pivotal for real-world implementation. Finally, we contend that the future of lung cancer management hinges on robust, multi-institutional validation of AI tools and the development of trustworthy, explainable systems.",
+        "publication_year": "2026",
+        "journal": "Pharmaceutics"
+    },
+    {
+        "pmid": "41754908",
+        "title": "Pharmacogenomics of Antineoplastic Therapy in Children: Genetic Determinants of Toxicity and Efficacy.",
+        "authors": [
+            "Dushimova",
+            "Saliev",
+            "Bazarbayeva",
+            "Nurzhanova",
+            "Baibadilova",
+            "Abdilova",
+            "Fakhradiyev"
+        ],
+        "abstract": {
+            "i": [
+                "TPMT",
+                "NUDT15",
+                "DPYD",
+                "SLC28A3",
+                "RARG"
+            ],
+            "#text": "Over the past decades, remarkable progress in multimodal therapy has significantly improved survival outcomes for children with cancer. Yet, considerable variability in treatment response and toxicity persists, often driven by underlying genetic differences that affect the pharmacokinetics and pharmacodynamics of anticancer drugs. Pharmacogenomics, the study of genetic determinants of drug response, offers a powerful approach to personalize pediatric cancer therapy by optimizing efficacy while minimizing adverse effects. This review synthesizes current evidence on key pharmacogenetic variants influencing the response to major classes of antineoplastic agents used in children, including thiopurines, methotrexate, anthracyclines, alkylating agents, vinca alkaloids, and platinum compounds. Established gene-drug associations such as , , , , and  are discussed alongside emerging biomarkers identified through genome-wide and multi-omics studies. The review also examines the major challenges that impede clinical implementation, including infrastructural limitations, cost constraints, population-specific variability, and ethical considerations. Furthermore, it highlights how integrative multi-omics, systems pharmacology, and artificial intelligence may accelerate the translation of pharmacogenomic data into clinical decision-making. The integration of pharmacogenomic testing into pediatric oncology protocols has the potential to transform cancer care by improving drug safety, enhancing treatment precision, and paving the way toward ethically grounded, personalized therapy for children."
+        },
+        "publication_year": "2026",
+        "journal": "Pharmaceutics"
+    },
+    {
+        "pmid": "41754775",
+        "title": "Integrated Omics Approach to Delineate the Mechanisms of Doxorubicin-Induced Cardiotoxicity.",
+        "authors": [
+            "Dabour",
+            "Abdelgawad",
+            "Sadaf",
+            "Daniel",
+            "Grant",
+            "Blaes",
+            "Jacobson",
+            "Zordoky"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives:",
+                "Methods",
+                "Results",
+                "Conclusions"
+            ],
+            "i": [
+                "Phlda3",
+                "Trp53inp1",
+                "Nr1d1",
+                "Apelin",
+                "Cd74"
+            ],
+            "#text": "Doxorubicin (DOX) is an effective chemotherapeutic agent whose clinical utility is limited by cardiotoxicity. To investigate underlying mechanisms, we employed a multi-omics approach integrating transcriptomics and proteomics, leveraging established mouse models of chronic DOX-induced cardiotoxicity. : Five-week-old male mice received weekly DOX (4 mg/kg) or saline injections for six weeks, with heart tissues harvested 4 days post-treatment. Differentially expressed genes (DEGs) and proteins (DEPs) were identified by bulk RNA-seq and proteomics, validated via qPCR and Western blot, respectively. Key DEPs were validated in plasma samples from DOX-treated breast cancer patients. Additionally, temporal comparison was conducted between DEPs in the mice hearts 4 days and 6 weeks post-DOX. : RNA-seq revealed upregulation of stress-responsive genes (, ) and circadian regulators (), with downregulation of  and . Proteomics identified upregulation of serpina3n, thrombospondin-1, and epoxide hydrolase 1. Plasma SERPINA3 concentrations were significantly elevated in breast cancer patients 24 h post-DOX. Gene set enrichment analysis (GSEA) revealed upregulated pathways, including p53 signaling, apoptosis, and unfolded protein response. Integrated omics analysis revealed 2089 gene-protein pairs. GSEA of concordant gene-protein pairs implicated p53 signaling, apoptosis, and epithelial-mesenchymal transition in upregulated pathways, while oxidative phosphorylation and metabolic pathways were downregulated. Temporal comparison with a delayed timepoint (6 weeks post-DOX) uncovered dynamic remodeling of cardiac signaling, with early response dominated by inflammatory and apoptotic responses, and delayed response marked by cell cycle and DNA repair pathway activation. : This integrated omics study reveals key molecular pathways and temporal changes in DOX-induced cardiotoxicity, identifying potential biomarkers for future cardioprotective strategies."
+        },
+        "publication_year": "2026",
+        "journal": "Pharmaceuticals (Basel, Switzerland)"
+    },
+    {
+        "pmid": "41753301",
+        "title": "Association of IMP3 and CD10 Expression with Clinicopathological Features and Outcomes in Phyllodes Tumors: A Retrospective Single-Center Study.",
+        "authors": [
+            "Odaba\u015f\u0131 B\u00fck\u00fcn",
+            "\u00c7ubuk\u00e7u",
+            "Delig\u00f6n\u00fcl",
+            "\u015eahin",
+            "Co\u015fkun",
+            "Ak\u0131n",
+            "Karao\u011flu",
+            "Akta\u015f",
+            "G\u00f6n\u00fcl",
+            "\u00d6z\u015fen",
+            "Polatkan",
+            "Evrensel"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives:",
+                "Methods:",
+                "Results:",
+                "Conclusions:"
+            ],
+            "i": [
+                "p",
+                "p",
+                "p",
+                "p",
+                "p"
+            ],
+            "#text": "Phyllodes tumors (PTs) are rare fibroepithelial breast neoplasms with highly variable clinical behavior. Identifying predictive immunohistochemical markers is crucial for early detection of lesions with malignant potential and appropriate treatment selection. This study aimed to evaluate the association of insulin-like growth factor II mRNA-binding protein 3 (IMP3) and cluster of differentiation 10 (CD10) expression with histopathological grade and survival outcomes in PTs.  We retrospectively analyzed sixty-eight female patients with PTs at Uludag University Faculty of Medicine Hospital, between 2000 and 2024. Histopathological features, IMP3 and CD10 expression, and clinical outcomes were evaluated. Disease-free survival (DFS) and overall survival (OS) were estimated using the Kaplan-Meier method and compared using the log-rank test.  Among the 68 patients (median age: 39.0 years), 60.3% had benign PTs, 14.7% had borderline PTs, and 25.0% had malignant PTs. Histopathological parameters differed significantly across grades (all  < 0.01). IMP3 expression was strongly associated with higher histological grade, larger tumor size, and stromal atypia ( < 0.05). OS differed significantly by histological grade ( = 0.009) and IMP3 status ( = 0.013), whereas DFS and CD10 expression showed no significant associations ( > 0.05).  IMP3 expression is strongly associated with malignant histology and poorer overall survival in PTs; however, its independent prognostic value could not be conclusively established due to the limited number of outcome events. While IMP3 may serve as a promising marker in routine pathological assessment, validation in larger, prospective cohorts with sufficient event numbers is warranted."
+        },
+        "publication_year": "2026",
+        "journal": "Journal of clinical medicine"
+    },
+    {
+        "pmid": "41753278",
+        "title": "Circulating miR-21 and miR-181a as Biomarkers for Predicting Postoperative Complications Following Colorectal Cancer Resection: A Longitudinal Observational Study.",
+        "authors": [
+            "Rauduvyt\u0117",
+            "Kry\u017eauskas",
+            "Drazdauskas",
+            "Ogaras",
+            "Kazlauskait\u0117",
+            "Ivanauskien\u0117",
+            "Gulbinas",
+            "Po\u0161kus",
+            "Sabaliauskait\u0117",
+            "Mlynska",
+            "\u0160e\u0161tokait\u0117",
+            "Bau\u0161ys",
+            "Jakubauskas",
+            "Ignatavi\u010dius",
+            "Bau\u0161ys"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives:",
+                "Methods:",
+                "Results:",
+                "Conclusions:"
+            ],
+            "i": [
+                "p",
+                "p",
+                "p",
+                "p"
+            ],
+            "#text": "Early and accurate detection of postoperative complications (POCs) remains a major challenge in colorectal cancer (CRC) surgery, underscoring the need for reliable molecular biomarkers. This study evaluated whether plasma miR-21 and miR-181a can predict POCs following left-sided CRC resection.  This longitudinal observational sub-study was conducted within a randomized controlled trial. Adult patients undergoing elective left-sided CRC resection were included. Plasma miR-21 and miR-181a levels were measured preoperatively and on postoperative day (POD) 6 using RT-qPCR. POCs were assessed according to Clavien-Dindo classification. Of 40 enrolled patients, 38 were included in the final analysis (15 with and 23 without postoperative complications). Discriminative performance was assessed using receiver operating characteristic analysis and correlations with inflammatory markers were evaluated.  No significant differences in plasma miR-21 or miR-181a levels were observed between groups at baseline or POD6 (all  > 0.05). Both biomarkers showed limited discriminative ability (AUC = 0.61 and 0.54, respectively), while a combined model of miR-181a + TNF-\u03b1 improved performance (AUC = 0.76, 95% CI: 0.57, 0.94,  = 0.01). At baseline, miR-21 correlated strongly with miR-181a (\u03c1 = 0.81,  < 0.001) and moderately inversely with TNF-\u03b1 (\u03c1 = -0.35,  = 0.043).  MiR-21 or miR-181a measured at baseline or POD6 show limited predictive value for POCs after CRC surgery. Further studies would benefit from larger sample sizes and optimized sampling strategies that reflect possible early dynamic changes in these biomarkers."
+        },
+        "publication_year": "2026",
+        "journal": "Journal of clinical medicine"
+    },
+    {
+        "pmid": "41753261",
+        "title": "Modern Personalized Strategies for Breast Cancer Treatment: Bridging Precision Oncology and Psycho-Oncology.",
+        "authors": [
+            "Marano",
+            "Paris",
+            "Traversi",
+            "Mazza",
+            "Pavese",
+            "D'Angelo",
+            "Franceschini",
+            "Mazza"
+        ],
+        "abstract": "Breast cancer represents a paradigmatic model of precision oncology, with treatment strategies increasingly guided by molecular profiling and biomarker-driven targeted therapies. Despite these advances in biological personalization, clinical outcomes remain strongly influenced by psychological and psychiatric factors that are still insufficiently integrated into oncological decision-making. This gap underscores the need for a broader, person-centered model of personalization that extends beyond tumor biology. This narrative review synthesizes current evidence on contemporary personalized strategies in breast cancer management, with a specific focus on the integration of precision oncology and psycho-oncology. A structured literature search was conducted across major biomedical databases to identify studies addressing molecular stratification, targeted treatments, psychiatric comorbidity, psychological profiles, and psycho-oncological interventions relevant to treatment personalization. While molecular classification and biomarker-guided therapies have substantially improved breast cancer outcomes, high rates of depression, anxiety, psychological distress, and maladaptive coping styles are consistently reported across disease stages. These psychological and psychiatric dimensions significantly influence treatment adherence, tolerability, quality of life, and ultimately clinical outcomes. Growing evidence supports the systematic use of psychological screening tools and tailored psycho-oncological interventions, both psychological and pharmacological, as integral components of personalized cancer care. Integrated care models combining oncological and psycho-oncological expertise are associated with improved patient-reported outcomes and may enhance overall therapeutic effectiveness. True personalization in breast cancer treatment extends beyond biological precision and requires the structured integration of psycho-oncological assessment and intervention into routine clinical pathways. Bridging precision oncology and psycho-oncology enables a more comprehensive, patient-centered approach, optimizing adherence, quality of life, and long-term outcomes. Future strategies should prioritize multidisciplinary models of care and the development of integrated clinical frameworks to achieve genuinely personalized breast cancer management.",
+        "publication_year": "2026",
+        "journal": "Journal of clinical medicine"
+    },
+    {
+        "pmid": "41753172",
+        "title": "Predicting the Unpredictable: Prognostic Role of Systemic Inflammatory Indices and Tumor Biology of Neoadjuvant Chemotherapy Response in Gastric and Gastroesophageal Junction Cancer-Insights from a Systematic Review and Real-World Experience.",
+        "authors": [
+            "Oyucu Orhan",
+            "Orhan",
+            "\u00c7ak\u0131r",
+            "Sali",
+            "Caner",
+            "Ocak",
+            "\u015eahin",
+            "Delig\u00f6n\u00fcl",
+            "\u00c7ubuk\u00e7u",
+            "Evrensel"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives:",
+                "Methods:",
+                "Results:",
+                "Conclusions:"
+            ],
+            "i": [
+                "p",
+                "p",
+                "p",
+                "p",
+                "p",
+                "p",
+                "p"
+            ],
+            "#text": "Perioperative chemotherapy is the standard treatment for locally advanced gastric and gastroesophageal junction adenocarcinoma; however, substantial uncertainty remains regarding the optimal management of non-responding patients and the prognostic relevance of biological and inflammatory biomarkers. This study aimed to determine, using real-world data integrated with a comprehensive literature review, whether long-term survival is driven primarily by the choice of chemotherapy regimen or by the tumor's intrinsic biological aggressiveness and the host's systemic inflammatory response.  A retrospective analysis was performed of 43 patients with locally advanced gastric cancer who received neoadjuvant chemotherapy. Survival outcomes were stratified by regimen (FLOT versus non-FLOT) and analyzed using Kaplan-Meier methods. The prognostic value of clinicopathological features and systemic inflammatory indices was assessed using multivariate Cox regression models to identify independent predictors of mortality.  Although FLOT showed a trend toward improved overall survival (OS) (median not reached vs. 18.9 months), this difference did not reach statistical significance. Univariate analysis linked lymphovascular invasion (LVI) (HR = 4.17;  = 0.003), pan-cytokeratin (panCK) (HR = 2.44;  = 0.032), and monocyte-to-lymphocyte ratio (MLR) (HR = 1.73;  = 0.027) with survival. To minimize overfitting, two multivariate models were constructed. The first confirmed LVI (HR = 7.32;  < 0.001) and panCK (HR = 4.30;  = 0.006) as independent prognostic markers. The second identified MLR (HR = 1.65;  = 0.033) and panCK (HR = 2.42;  = 0.034) as independent adverse factors.  Our findings suggest a paradigm shift in prognostic assessment for locally advanced gastric cancer: therapeutic success appears to depend more on underlying tumor biology and the immune microenvironment than on any specific neoadjuvant regimen. High MLR and LVI serve as strong surrogate markers of a biologically aggressive, chemotherapy-resistant phenotype. Consequently, future clinical strategies should move beyond a \"one-size-fits-all\" chemotherapy approach and prioritize these biomarkers for risk stratification and personalization of multimodal therapy."
+        },
+        "publication_year": "2026",
+        "journal": "Journal of clinical medicine"
+    },
+    {
+        "pmid": "41753161",
+        "title": "The C-Reactive Protein-Albumin-Lymphocyte (CALLY) Index as an Independent Predictor of Progression and Survival in Metastatic Renal Cell Carcinoma.",
+        "authors": [
+            "Balci Topuz",
+            "Tufekci",
+            "Cangi",
+            "Yildirim",
+            "Yildirim"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives",
+                "Methods",
+                "Results",
+                "Conclusions"
+            ],
+            "sup": "4",
+            "i": [
+                "p",
+                "p",
+                "p",
+                "p"
+            ],
+            "#text": ": Systemic inflammation, nutritional status, and immune competence have emerged as important prognostic determinants in metastatic renal cell carcinoma (mRCC). The C-reactive protein-albumin-lymphocyte (CALLY) index integrates these parameters into a single composite biomarker, yet its utility in mRCC remains insufficiently explored. This study aimed to evaluate the prognostic significance of the CALLY index in mRCC and its associations with clinicopathological features and survival outcomes. : A total of 68 patients with mRCC treated between 2017 and 2024 were retrospectively analyzed. All patients received first-line VEGF-TKI therapy, and 73.5% subsequently received second-line treatment, predominantly nivolumab. The CALLY index was calculated as (albumin \u00d7 lymphocyte count)/(CRP \u00d7 10), and patients were stratified using the median cut-off (0.16). Survival outcomes were assessed with Kaplan-Meier and Cox regression analyses. Discriminative performance was evaluated using Harrell's C-index and time-dependent ROC curves at 6, 12, and 24 months. : Low CALLY (\u22640.16) was significantly associated with shorter PFS (4 vs. 8 months,  < 0.001) and OS (9 vs. 26 months,  < 0.001). In multivariate analysis, the CALLY index independently predicted both PFS (HR = 1.91,  = 0.045) and OS (HR = 2.89,  = 0.005). Time-dependent ROC analysis demonstrated increasing discriminative strength for PFS (AUC: 0.70 \u2192 0.95) and modest decline for OS over time (AUC: 0.83 \u2192 0.72). CALLY also showed strong associations with IMDC risk classification and peritoneal metastasis. : The CALLY index is a simple, cost-effective, and objective prognostic biomarker that may independently predict progression and survival in mRCC. Its complementary value to the IMDC model supports its integration into routine risk stratification and real-world clinical decision-making."
+        },
+        "publication_year": "2026",
+        "journal": "Journal of clinical medicine"
+    },
+    {
+        "pmid": "41752847",
+        "title": {
+            "sup": "\u00ae",
+            "#text": "Genomic Landscape of Poorly Differentiated Gastric Carcinoma: An AACR GENIE Project."
+        },
+        "authors": [
+            "Lodenquai",
+            "Morris",
+            "Garcia",
+            "Sokolovski",
+            "Saglimbeni",
+            "Hsia",
+            "Tauseef"
+        ],
+        "abstract": {
+            "sup": [
+                "\u00ae",
+                "-4"
+            ],
+            "i": [
+                "TP53",
+                "CDH1",
+                "ARID1A",
+                "KMT2C",
+                "POLD1",
+                "ERBB3",
+                "KMT2D",
+                "KEL",
+                "CDKN2A",
+                "FAT1",
+                "CCNE1",
+                "FGFR2",
+                "MET",
+                "MYC",
+                "KRAS",
+                "ERBB2",
+                "CDKN2A/CDKN2B",
+                "CDH1",
+                "PTEN",
+                "POLD1-KMT2D",
+                "p",
+                "POLD1-ARID1A",
+                "p",
+                "ARID1A-KMT2D",
+                "p",
+                "TP53",
+                "ARID1A",
+                "p",
+                "CDH1",
+                "p",
+                "CDH1",
+                "p",
+                "MLH1",
+                "p",
+                "CCNE1",
+                "p",
+                "TP53",
+                "CDH1",
+                "ARID1A",
+                "CCNE1",
+                "FGFR2",
+                "POLD1",
+                "ARID1A",
+                "KMT2D",
+                "TP53",
+                "ARID1A",
+                "CDH1",
+                "CDH1",
+                "MLH1"
+            ],
+            "#text": "Poorly differentiated gastric carcinoma (PGC) is aggressive, yet subtype-specific genomics are under-characterized. We queried AACR Project GENIE (cBioPortal v18.0-public; 12 August 2025) for PGC and analyzed somatic alterations from targeted panels (depth \u2265 100\u00d7; variant allele frequency \u2265 5%). Mutation and copy number frequencies were summarized, co-occurrence and exclusivity were tested, and primary versus metastatic tumors were compared using chi-square with Benjamini-Hochberg correction. The cohort included 189 tumors from 188 patients (71% primary; 25% metastatic), with primary and metastatic tumor samples being collected from different patients. Recurrently mutated genes were  (48.7%),  (31.2%),  (21.2%),  (8.5%), and  (7.4%); additional alterations involved , , , , and  (\u22481-7%). Amplifications in  (8.2%) and  (7.6%) were common, alongside gains in , , , and  and losses in , , and . Significant co-occurrence was observed for  ( < 0.001),  ( < 0.001), and  ( < 0.001), while  was mutually exclusive with  ( = 0.029) and  ( = 0.041).  (48.9% vs. 29.6%;  = 0.021) and  (8.5% vs. 1.5%;  = 0.040) were enriched in metastases, and  alterations showed female predominance ( = 2.83 \u00d7 10). Several \"primary-only\" findings likely reflect small denominators and require replication. PGC demonstrates a mutational framework dominated by , , , and recurrent / amplifications, underscoring dysregulation of cell cycle and chromatin-remodeling pathways as key drivers. Co-occurrence of , , and  suggests coordinated disruption of DNA repair and epigenetic regulation, whereas mutual exclusivity of , , and  indicates distinct tumorigenic routes. Metastatic enrichment of  and  supports their roles in invasion and therapeutic resistance. Together, these findings highlight candidate biomarkers and actionable pathways warranting validation in larger, multi-omic cohorts to refine precision treatment strategies for this aggressive gastric cancer subtype."
+        },
+        "publication_year": "2026",
+        "journal": "Life (Basel, Switzerland)"
+    },
+    {
+        "pmid": "41752726",
+        "title": "Prognostic Significance of Immune Checkpoint Markers in Prognosis of Grade 3 Endometrioid Carcinoma.",
+        "authors": [
+            "Kilic Bagir",
+            "Kucukgoz Gulec",
+            "Paydas",
+            "Guzel",
+            "Vardar",
+            "Seydaoglu",
+            "Gumurdulu"
+        ],
+        "abstract": {
+            "i": [
+                "Background and Objectives",
+                "Materials and Methods",
+                "Results",
+                "p",
+                "Conclusions"
+            ],
+            "#text": ": Uterine FIGO grade 3 endometrioid carcinoma (EC) is an uncommon but aggressive subtype of endometrial cancer with limited biomarker data to guide prognosis and management. This study aimed to evaluate the prognostic significance of programmed death-1 (PD-1) and programmed death-ligand 1 (PD-L1) expression in tumor tissue (TT) and tumor microenvironment (TME). : We retrospectively analyzed tumor samples from 53 patients with FIGO grade 3 EC. Immunohistochemistry was performed to assess PD-1 and PD-L1 expression in TT and TME. Clinicopathological data including age, stage, lymph node invasion (LNI), lymphovascular space invasion (LVSI), depth of myometrial invasion (MI), adjuvant therapy, and survival outcomes were collected. Survival analyses were conducted using Kaplan-Meier and Cox proportional hazards models. : PD-1 expression was identified in 34% of TT and 41.5% of TME, while PD-L1 was expressed in 22.6% of TT and 34% of TME. Except for PD-1 in TME, positive expression of these immune checkpoint molecules correlated with significantly shorter survival (log-rank  < 0.05) outcomes. In univariate analysis, PD-1 and PD-L1 expression in TT, deep MI, LNI and LVSI were associated with adverse outcomes. Multivariate analysis confirmed PD-1 and PD-L1 positivity in TT as independent prognostic factors (PD-1: HR 3.2, 95% CI 1.4-7.0; PD-L1: HR 3.3, 95% CI 1.4-7.8). Patients with concurrent PD-1 and PD-L1 expression in TT showed the poorest overall survival, suggesting a cumulative negative effect. : PD-1 and PD-L1 expression in tumor tissue are independent predictors of poor prognosis in FIGO grade 3 EC. These findings support their role as clinically relevant biomarkers and potential therapeutic targets. Incorporating checkpoint evaluation into routine pathological assessment could improve prognostic accuracy and guide treatment strategies, particularly in high-risk patients who might benefit from immunotherapy approaches."
+        },
+        "publication_year": "2026",
+        "journal": "Medicina (Kaunas, Lithuania)"
+    },
+    {
+        "pmid": "41752702",
+        "title": "HER2-Low Breast Cancer: Biological Framework and Determinants of HER2 Instability.",
+        "authors": [
+            "Gurau",
+            "Mihalache",
+            "Satala",
+            "Ra\u021b\u0103",
+            "Rebegea"
+        ],
+        "abstract": {
+            "i": [
+                "Background and Objectives",
+                "Materials and Methods",
+                "Results",
+                "Conclusions"
+            ],
+            "#text": "Human epidermal growth factor receptor 2 (HER2)-low breast cancer is a clinically relevant subgroup defined by low but detectable HER2 protein expression, immunohistochemistry (IHC) score of 1+ or 2+ with negative in situ hybridization findings, positioned at the interface between traditional HER2-positive and HER2-negative disease. The recent introduction of antibody-drug conjugates (ADCs) has increased the clinical significance of borderline HER2 expression and exposed important diagnostic challenges, particularly in cases with very low levels of membrane staining, including the emerging HER2-ultralow category. : This review summarizes the pathological and biological framework of HER2-low and HER2-ultralow breast cancer and critically appraises the magnitude, direction, and determinants of HER2 variability under systemic therapy. Particular focus is placed on treatment-associated shifts after chemotherapy, intratumoral heterogeneity, and pre-analytical and analytical factors that can influence HER2 assessment, with direct implications for therapeutic stratification and biomarker reassessment. : A narrative literature review was conducted using PubMed, Scopus, and Web of Science, focusing on studies published within the last five years. Eligible publications included clinical trials, retrospective cohorts, and translational or molecular studies that reported paired HER2 assessment in breast cancer and were interpreted according to American Society of Clinical Oncology/College of American Pathologists-aligned criteria. : Across major cohorts, HER2-low appeared to be the most dynamic category, with variability frequently observed following systemic therapy. Beyond treatment-related effects, shifts in HER2 status may be attributable to intratumoral heterogeneity and technical variability, with the greatest impact observed at the IHC 0-1+ interface. : Given the clinical relevance of low-level HER2 expression, standardized testing and transparent reporting are essential, and HER2 reassessment may be justified in selected clinical scenarios to optimize access to HER2-directed therapies."
+        },
+        "publication_year": "2026",
+        "journal": "Medicina (Kaunas, Lithuania)"
+    },
+    {
+        "pmid": "41752669",
+        "title": "Preoperative Advanced Lung Cancer Inflammation Index as a Potential Marker for Incidental Gallbladder Carcinoma: A Matched Case-Control Study.",
+        "authors": [
+            "Korkmaz",
+            "Aydin",
+            "Karatay",
+            "Korkmaz",
+            "Peker",
+            "Gungor",
+            "Kinaci"
+        ],
+        "abstract": {
+            "i": [
+                "Background and Objectives:",
+                "Materials and Methods:",
+                "Results:",
+                "p",
+                "Conclusions:"
+            ],
+            "#text": "Incidental gallbladder carcinoma (IGBC) is an uncommon but clinically significant finding after elective cholecystectomy, as failure to recognize malignancy preoperatively may lead to inadequate initial surgical management. Inflammation-based hematological indices have been explored in various gastrointestinal malignancies; however, data focusing on preoperative discrimination of IGBC are limited. This study aimed to evaluate the diagnostic performance of the Advanced Lung Cancer Inflammation Index (ALI) and other inflammatory and immunonutritional indices in distinguishing IGBC from benign gallbladder disease.  This retrospective matched case-control study included patients who underwent elective cholecystectomy between 2020 and 2025. Nineteen patients with histopathologically confirmed IGBC were matched 1:4 by age and sex with 76 patients with benign gallbladder disease. Preoperative laboratory parameters obtained within 72 h before surgery were used to calculate inflammatory indices, including NLR, PLR, LMR, SII, CAR, ALI, and the CALLY index. Diagnostic performance was assessed using receiver operating characteristic (ROC) analysis. Independent associations with malignancy were evaluated using matched conditional logistic regression.  No significant differences were observed between benign and malignant groups in baseline demographic or routine laboratory parameters. Among derived indices, ALI and LMR demonstrated borderline differences, representing the closest discriminatory markers. In ROC analysis, ALI showed the highest diagnostic performance (AUC = 0.69), followed by LMR (AUC = 0.639). In matched conditional logistic regression, ALI was independently and inversely associated with malignancy (adjusted OR = 0.997 per unit, 95% CI: 0.9937-1.0000;  = 0.04); when rescaled per 100-unit increase, the adjusted OR was 0.93, whereas LMR did not reach statistical significance.  Among evaluated preoperative inflammatory and immunonutritional indices, ALI demonstrated a more consistent association with incidental gallbladder carcinoma. Although its discriminative ability was moderate, ALI may serve as a complementary biomarker for preoperative risk stratification when integrated with clinical and radiological assessment."
+        },
+        "publication_year": "2026",
+        "journal": "Medicina (Kaunas, Lithuania)"
+    },
+    {
+        "pmid": "41752421",
+        "title": "White Teff Flour Ethanolic Extract: Phytochemical Profile, Antioxidant and Anti-Inflammatory Activity.",
+        "authors": [
+            "Feren\u021biu",
+            "Pop",
+            "P\u00e2rvu",
+            "Morar",
+            "Bolundu\u021b",
+            "P\u00e2rvu",
+            "Ranga",
+            "Dalai",
+            "\u021aicolea",
+            "Pop"
+        ],
+        "abstract": {
+            "i": [
+                "Eragrostis tef",
+                "in vitro",
+                "In vivo",
+                "In vitro",
+                "In vivo"
+            ],
+            "sub": [
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            "#text": "Teff () is a gluten-free cereal increasingly promoted as a functional food, yet the bioactive profile and mechanistic evidence of some varieties remain limited. This study characterized an ethanolic extract of white teff flour and evaluated its antioxidant and anti-inflammatory potential  and in a rat model of acute inflammation. White teff flour was extracted by cold repercolation (1 g/mL; 70% ethanol). Total polyphenols and flavonoids were quantified spectrophotometrically, and phenolics were profiled by HPLC-DAD-ESI-MS. Antioxidant activity was assessed using DPPH, FRAP, HO scavenging, and NO scavenging assays. , acute inflammation was induced with intramuscular turpentine in Wistar rats, testing teff extract therapeutically (post-induction) and prophylactically (10-day pretreatment), with diclofenac and Trolox as comparators. Serum oxidative stress biomarkers (TOS, TAC, OSI, AOPP, MDA, NOx, 3-NT, thiols) and inflammatory mediators (NF\u03baB-p65, IL-1\u03b2, IL-18, caspase-1, IL-10) were measured. The extract showed low total polyphenols (0.044 \u00b1 0.002 mg GAE/g d.w.) and higher flavonoids (11.83 \u00b1 1.10 mg QE/100 g d.w.). Eighteen phenolics were identified (total 398.30 \u00b1 1.48 \u03bcg/mL), dominated by flavone derivatives (notably apigenin- and luteolin-glycosides), while phenolic acids accounted for ~33.21%.  antioxidant capacity was robust (DPPH 286.17 \u00b1 11.52 \u03bcg TE/g d.w.; FRAP 263.17 \u00b1 20.09 \u03bcg TE/g d.w.; HO 214.12 \u00b1 18.22 mg TE/g d.w.; NO 300.77 \u00b1 28.71 mg QE/g d.w.). , turpentine provoked marked oxidative stress and inflammatory activation; teff, particularly at the highest concentration and in prophylaxis, reduced nitro-oxidative damage markers (AOPP, MDA, NOx, 3-NT) and lowered NF\u03baB-p65, IL-1\u03b2, IL-18, and caspase-1, while IL-10 was not significantly altered. White teff flour ethanolic extract contains a flavone-rich phenolic profile and exerts measurable antioxidant and anti-inflammatory effects in an acute inflammation model, supporting its potential development as a nutraceutical candidate."
+        },
+        "publication_year": "2026",
+        "journal": "Molecules (Basel, Switzerland)"
+    },
+    {
+        "pmid": "41752159",
+        "title": "Raman Spectroscopic Signatures of Hepatic Carcinoma: Progress and Future Prospect.",
+        "authors": [
+            "Kolahdouzmohammadi",
+            "Shaygannia",
+            "Wu",
+            "Tjandra",
+            "Nikoumaram",
+            "Kherani",
+            "Oldani"
+        ],
+        "abstract": "Liver cancer continues to be a predominant cause of cancer-related mortality globally, primarily attributable to late diagnosis and a scarcity of dependable biomarkers for early identification. Raman spectroscopy has emerged as a valuable analytical instrument for liver cancer detection, providing rapid, label-free, and non-destructive molecular profiling of biological specimens. Raman-based methodologies can discern malignant from non-malignant conditions by analyzing small biochemical alterations in biofluids, including blood, urine, and exosomes, as well as in liver tissue, yielding unique spectrum fingerprints. Progress in chemometric analysis, including machine learning models and multivariate statistical methods, has significantly improved the diagnostic precision of Raman spectroscopy, attaining elevated sensitivity and specificity across numerous studies. Furthermore, the integration of complementary techniques, such as surface-enhanced Raman spectroscopy (SERS) and Raman optical activity (ROA) has broadened its prospects for clinical application. This review article elucidates the contemporary applications of Raman spectroscopy in the diagnosis of liver cancer, presents pivotal findings across various sample types, and examines the challenges and future prospects of building Raman-based platforms as dependable diagnostic instruments in oncology.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752153",
+        "title": "The Fibro-Immune Landscape Across Organs: A Single-Cell Comparative Study of Human Fibrotic Diseases.",
+        "authors": [
+            "Deng",
+            "Luo",
+            "Lin",
+            "Zhang",
+            "Lin",
+            "Pan",
+            "Ruan",
+            "Mo",
+            "Fang"
+        ],
+        "abstract": "Fibrosis is a hallmark of the tumor microenvironment in many solid cancers, driving tumor progression, immune evasion, and treatment resistance; however, the molecular and cellular mechanisms underlying fibrogenesis-particularly stromal-immune crosstalk across organs-remain incompletely understood, compounded by organ-specific heterogeneity and a lack of reliable immune-related biomarkers. To address this, we performed an integrative single-cell RNA sequencing (scRNA-seq) analysis of fibrotic tissues from four major organs-liver, lung, heart, and kidney-alongside non-fibrotic controls, applying unsupervised clustering, trajectory inference, cell-cell communication modeling, and gene set variation analysis (GSVA) to map the fibro-immune landscape. Our analysis revealed both conserved and organ-specific features: fibroblasts were the dominant extracellular matrix (ECM)-producing cells in liver and lung, whereas endothelial-derived stromal populations prevailed in heart and kidney. Immune profiling uncovered distinct infiltration patterns-macrophages displayed organ-specific polarization states; T cells were enriched for tissue-resident subsets in lung and mucosal-associated invariant T (MAIT) cells in liver; and B cells exhibited marked heterogeneity, including a pathogenic interferon-responsive subset prominent in pulmonary fibrosis. GSVA further identified divergent signaling programs across organs and lineages, including TGF-\u03b2/TNF-\u03b1 in the heart, NOTCH/mTOR in the kidney, glycolysis/ROS in the lung, and KRAS/interferon pathways in the liver. Cell-cell communication analysis highlighted robust crosstalk between macrophages, T/B cells, and stromal cells mediated by collagen, laminin, and CXCL signaling axes. Together, this cross-organ atlas delineates a highly heterogeneous fibro-immune ecosystem in human fibrotic diseases, revealing shared mechanisms alongside organ-specific regulatory networks, with immediate translational implications for precision anti-fibrotic therapy, immunomodulatory drug repurposing, and the development of context-specific biomarkers for clinical stratification and therapeutic monitoring.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752108",
+        "title": "A Systematic Review of Major Advances in Breast Cancer Therapeutics in 2025: Synthesis of Conference and Published Evidence.",
+        "authors": [
+            "Ismaili"
+        ],
+        "abstract": {
+            "i": "p",
+            "#text": "The year 2025 has been transformative in breast oncology, marked by the maturation of pivotal adjuvant trials, the introduction of novel ADCs, and the validation of proactive biomarker-driven strategies across all molecular subtypes. ASCO, ESMO, and SABCS contributed pivotal updates that further refined treatment paradigms. This systematic review synthesizes and critically evaluates pivotal Phase II/III clinical trials presented at major oncology conferences (ASCO 2025, ESMO 2025, SABCS 2025) and published in high-impact journals during 2025. A curated selection of pivotal Phase II/III trials, and major prospective trials published or presented in 2025 was performed. Data extraction focused on trial design, population, interventions, efficacy endpoints, and safety outcomes. Narrative synthesis was organized by disease stage and molecular subtype. Key 2025 findings (50 clinical trials) include: (1) confirmation of overall survival benefit with adjuvant CDK4/6 inhibitors in HR+/HER2- early breast cancer (monarchE: HR = 0.842,  = 0.0273); (2) establishment of trastuzumab deruxtecan (T-DXd) as a new standard in high-risk HER2+ early disease (DESTINY-Breast05: IDFS HR = 0.47) and first-line metastatic settings (DESTINY-Breast09: PFS HR = 0.58); (3) validation of TROP2-directed ADCs as first-line therapy for metastatic triple-negative breast cancer (ASCENT-03: PFS HR = 0.62; BEGONIA: ORR 79%); (4) paradigm shift to proactive, liquid biopsy-guided therapy switching (SERENA-6: PFS HR = 0.44); (5) updated efficacy and safety of the oral SERD imlunestrant from the EMBER-3 trial, supporting its role in ESR1-mutated advanced breast cancer and in combination with abemaciclib; (6) confirmation of long-term survival benefit for neoadjuvant carboplatin in early TNBC and new positive adjuvant data; (7) pivotal advances in HER2+ metastatic disease sequencing with tucatinib and T-DXd; (8) evidence supporting optimized adjuvant endocrine therapy in HER2+/HR+ early disease; and (9) emergence of novel agents with improved therapeutic indices, including PROTAC degraders, oral SERDs, and mutant-selective PI3K inhibitors. The 2025 evidence base has fundamentally reshaped breast cancer management, establishing new standards of care across all subtypes. Unifying themes include biomarker-driven personalization, strategic treatment sequencing, management of unique toxicities, and emphasis on patient-reported outcomes. Future challenges include optimizing treatment integration, managing financial toxicity, and ensuring equitable global access."
+        },
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752084",
+        "title": "High-Throughput Sequencing Decodes tsRNA Landscapes: Insights into Cancer Biomarkers and Therapeutic Targets.",
+        "authors": [
+            "Pu",
+            "Shi",
+            "Shen",
+            "Cheng",
+            "Ding",
+            "Tian",
+            "Ye",
+            "Bu",
+            "Zhang"
+        ],
+        "abstract": "Transfer RNA-derived small RNAs (tsRNAs) represent an emerging category of small non-coding RNAs generated through specific cleavage of precursor or mature tRNAs. Increasingly recognized as pivotal players in the pathogenesis of complex malignancies, tsRNAs not only regulate cancer progression but also hold promising clinical potential for cancer diagnosis and treatment. This review highlights recent advances in the application of high-throughput sequencing technologies in the systematic identification of tsRNAs, with a focus on their roles in cancer diagnosis, prognostic assessment, and targeted therapy. Delving into the translational medicine dimensions of tsRNAs may provide novel strategies for molecular diagnosis and therapeutic interventions in oncology.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752061",
+        "title": "Tissue IL-6/LIF/LIFR and CXCL9 Expression Correlates with High-Risk NBI Patterns and Squamous Cell Carcinoma in Vocal Fold Lesions.",
+        "authors": [
+            "Bara\u0144ska",
+            "Taran",
+            "Pietruszewska"
+        ],
+        "abstract": "Laryngeal squamous cell carcinoma (SCC) remains a major clinical challenge due to substantial mortality and limited preoperative risk stratification. Narrow-Band Imaging (NBI) enables real-time visualization of mucosal microvasculature, yet the molecular correlates of high-risk NBI phenotypes in vocal fold lesions are incompletely defined. In a prospective cohort of 145 patients with vocal fold lesions, NBI microvascular patterns were graded using the Ni classification and dichotomized using a pre-specified high-risk threshold (Ni \u2265 4 vs. Ni \u2264 3). Histopathology was classified according to WHO 2017. Epithelial expression of IL-6, LIF, LIFR and CXCL9 was quantified by immunohistochemistry using the immunoreactive score (IRS). Associations were tested using non-parametric methods and logistic regression, and diagnostic performance was assessed by ROC analysis. SCC was diagnosed in 63/145 cases. The Ni category showed a strong stepwise association with WHO 2017 histopathological severity. Using Ni \u2265 4, diagnostic performance for SCC was balanced (sensitivity 82.5%, specificity 82.9%; accuracy 82.8%). LIF and LIFR expression decreased with increasing histopathological severity and higher-NBI-risk categories, whereas CXCL9 increased with more suspicious NBI patterns; epithelial IL-6 did not differ across lesion categories. In multivariable logistic regression, Ni \u2265 4 was the strongest independent predictor of SCC (adjusted OR 8.90), while higher LIF (adjusted OR 0.73) and LIFR (adjusted OR 0.78) were independently associated with lower odds of SCC (model AUC 0.943). Multivariable analysis confirmed NBI as the strongest independent predictor of carcinoma, while epithelial LIF and LIFR expression showed inverse associations with histological malignancy and high-risk NBI vascular patterns. LIF/LIFR and CXCL9 show distinct, biologically plausible associations with NBI risk phenotypes, suggesting that selected tissue markers may complement NBI for refined SCC risk stratification.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752055",
+        "title": "Exosomes and Triple-Negative Breast Cancer: Current Knowledge and Clinical Significance.",
+        "authors": [
+            "Loukopoulou",
+            "Kottorou",
+            "Koutras",
+            "Dimitrakopoulos"
+        ],
+        "abstract": "Exosomes, acting as vital mediators of cellular communication and carriers of diverse biomolecular cargo, are increasingly documented as important participants in cancer pathogenesis and progression. When it comes to triple-negative breast cancer (TNBC), a disease that comes with significant therapeutic hurdles, finding new, non-invasive biomarkers is absolutely crucial. This systematic review considers recent research, focusing on the role of exosomal biomarkers in diagnosing, predicting prognosis and foreseeing treatment response in TNBC patients. After an extensive search across PubMed and Google Scholar, we found many exosomal molecules showing great promise for early detection, tracking disease progression and tailoring treatments. This truly highlights liquid biopsy as a valuable, minimally invasive tool. However, there are still some big challenges to treat. These include variations in methodology, the sheer diversity of samples studied and the prevalence of research in specific populations, all of which make it harder to generalize findings. It has been suggested that future research must prioritize protocol standardization, achieving a deeper understanding of underlying biological mechanisms and, crucially, developing combinatorial biomarker panels. Ultimately, the successful translation of exosomal biomarkers into clinical practice will significantly advance personalized medicine in TNBC, leading to improved patient outcomes and an enhanced quality of life.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752040",
+        "title": "Advances in Breast Cancer Research: Immunological, Pathological, and Pharmacological Perspectives for Improving Patient Outcomes.",
+        "authors": [
+            "Crocamo",
+            "Dos Santos",
+            "Abdelhay"
+        ],
+        "abstract": "Breast cancer remains the most frequently diagnosed malignancy worldwide. Over the past decade, advances in molecular biology have expanded beyond tumor-intrinsic features to encompass the immune microenvironment and patient-specific pharmacogenomic profiles, profoundly reshaping diagnostic, prognostic, and therapeutic paradigms in breast oncology. Owing to rapid technological progress and an expanding therapeutic armamentarium, periodic synthesis of both foundational principles and emerging evidence remains essential for the critical interpretation of ongoing advances. This review provides a comprehensive overview of the contemporary global landscape of breast cancer, integrating developments in diagnosis, risk stratification, and therapeutic innovation. We examine the emerging technologies that are redefining tumor characterization, including digital pathology, artificial intelligence-assisted morphological and molecular analyses, and advanced molecular profiling approaches that increasingly inform prognostic and predictive assessment. We further discuss how these diagnostic frameworks are translating into therapeutic advances, with emphasis on immunotherapy, antibody-drug conjugates, mutation-directed targeted agents, therapeutic vaccines, and bispecific antibodies. Collectively, these developments highlight key translational research priorities, support evidence-based clinical decision-making, and explicitly acknowledge disparities in access and implementation between high-income settings and low- and middle-income countries (LMICs).",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752029",
+        "title": "Integrated Single-Cell Analysis Identifies IL1RAP as a Master Regulator of TAMs and a Prognostic Biomarker in Breast Cancer.",
+        "authors": [
+            "Zhu",
+            "Peng",
+            "Wu",
+            "Zhang",
+            "He",
+            "Xin",
+            "Jin",
+            "Sun"
+        ],
+        "abstract": "The recruitment and polarization of tumor-associated macrophages (TAMs) play a pivotal role in shaping the immunosuppressive tumor microenvironment in breast cancer. Interleukin-1 receptor accessory protein (IL1RAP), a critical co-receptor for IL-1 family cytokines, is emerging as a potential regulator of macrophage function, though its specific role in TAM biology remains to be explained. In this study, we investigated the impact of IL1RAP on macrophage recruitment and M2-like polarization. Initial bioinformatics analysis of public databases revealed a significant correlation between elevated IL1RAP expression in macrophages and signatures of immune suppression and poor prognosis in breast cancer. To functionally validate these findings, we performed IL1RAP knockdown in a murine macrophage cell line. Our results demonstrated that IL1RAP deficiency markedly impaired the migratory capacity of macrophages towards classic chemotactic stimuli. Furthermore, under M2-polarizing conditions, IL1RAP-knockdown macrophages exhibited a significantly attenuated M2 phenotype, as evidenced by the decreased expression of canonical M2 markers (e.g., Arg1, Mrc1) and reduced functional outputs. Collectively, our integrated approach combining bioinformatics and in vitro experimentation identifies IL1RAP as a novel regulator that potentiates both the recruitment and the M2 polarization of macrophages. These findings suggest that targeting the IL1RAP pathway could represent a promising therapeutic strategy for reprogramming the tumor-immune microenvironment by limiting pro-tumoral macrophage infiltration and polarization.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41752012",
+        "title": "Cancer-Associated Thrombosis in Patients Treated with Immune Checkpoint Inhibitors.",
+        "authors": [
+            "Ilari",
+            "Abbate",
+            "Verso",
+            "Graziani",
+            "Cafaro",
+            "Sala",
+            "Colonese",
+            "Cortinovis",
+            "Canova"
+        ],
+        "abstract": "The incidence of cancer-associated thrombosis has increased in recent years. While the association between venous thromboembolism (VTE) and chemotherapy is well established, there is no clear link between immune checkpoint inhibitors (ICIs) and VTE risk. Many risk assessment models (RAMs) have been developed to identify high-risk patients who need prophylaxis. However, these models are validated in patients undergoing chemotherapy, while they are scarce in those receiving immunotherapy. Moreover, the mechanisms linking ICIs to thrombosis are still a matter of debate. They include the upregulation of pro-inflammatory intracellular pathways, the release of cytokines, the activation of innate immune cells, the release of tissue factors and platelet activation, and the increase in adhesion molecules, thus resulting in the recruitment of agents involved in coagulation. Promising biomarkers are emerging to identify patients undergoing ICIs who are at high risk of developing VTE and need prophylaxis. In this review we investigate the possible causation between cancer-associated thrombosis (CAT) and immunotherapy and the underlying pathophysiological mechanisms. Thus, we suggest the most appropriate therapeutic approaches based on currently available data.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751984",
+        "title": "Gene Expression Profiling and Prognostic Significance of Nuclear and Membrane Progesterone Receptors in Head and Neck Squamous Cell Carcinoma.",
+        "authors": [
+            "Jela\u010di\u0107",
+            "Milutin",
+            "Stojkovi\u0107",
+            "Vugrinec",
+            "Kvolik Pavi\u0107",
+            "Vu\u0161kovi\u0107",
+            "Mumlek",
+            "Zub\u010di\u0107",
+            "Leovi\u0107",
+            "Bili\u0107",
+            "Ozreti\u0107"
+        ],
+        "abstract": {
+            "i": [
+                "PGR",
+                "PAQR5",
+                "PAQR6",
+                "PAQR7",
+                "PAQR8",
+                "PAQR9",
+                "PGRMC1",
+                "PGRMC2",
+                "PGR",
+                "PAQR5",
+                "PAQR7",
+                "PAQR8",
+                "PAQR9",
+                "p",
+                "PARQ8",
+                "PAQR9",
+                "p",
+                "PAQR5",
+                "p",
+                "PAQR7",
+                "p",
+                "PAQR5"
+            ],
+            "#text": "The risk of developing some types of head and neck squamous cell carcinoma (HNSCC) is seven times higher in males, and such disparities may not be associated only with tobacco and alcohol consumption or HPV infection. Therefore, the endocrine microenvironment is considered another risk factor, as epidemiologic studies have unequivocally shown the protective effect of estrogen in women. This research was focused on progesterone receptors (PRs), the least-studied sex hormone receptors in HNSCC. Our study included fresh tissue samples from 95 primary tumors, 25 metastatic lymph nodes and 40 healthy oral mucosa. Gene expression of nuclear () and seven membrane PRs (, , , , ,  and ) was analyzed by qRT-PCR and associated with clinicopathological characteristics. The results showed that, compared to control tissue,  was increased in metastatic lymph nodes, while , ,  and  were decreased in primary tumors (all  < 0.05). The expression of almost all PRs was greater in older patients and showed moderate to strong positive mutual correlations in both tumors and controls.  and  were increased in females and pT4 tumors (all  < 0.05). Survival analysis showed that higher  (hazard ratio (HR) 2.8, 95% confidence interval (CI) 1.19-6.57,  = 0.019) and  (HR 2.0, 95% CI 1.01-3.81,  = 0.048) were associated with worse overall survival, but their independence was not proven in multivariate analysis. Although most PRs were reduced in primary tumors, an increased  expression, also associated with tumor invasion markers, could likely mark a specific aggressive, advanced stage of primary tumors and potentially serve as a negative prognostic biomarker for HNSCC."
+        },
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751922",
+        "title": "Epigenetic Landscape of Female Infertility: An Integrated Bioinformatics Perspective on DNA Methylation, MicroRNAs, and Gene Regulatory Networks Across PCOS, Endometriosis, and Diminished Ovarian Reserve.",
+        "authors": [
+            "Jalouli",
+            "Rahman",
+            "Nahdi",
+            "Harrath"
+        ],
+        "abstract": "Female infertility diseases such as polycystic ovary syndrome (PCOS), endometriosis, diminished ovarian reserve (DOR), and recurrent implantation failure (RIF) have different clinical phenotypes. However, they might be epigenetically convergent, and thus the therapeutic targets may be potential. This study utilized transcriptome data, microRNA (miRNA), and DNA methylation data from the granulosa cells of four Gene Expression Omnibus (GEO) datasets, GSE138518, GSE105765, GSE232306, and GSE92324, to conduct integrated bioinformatics analysis. We focused on differentially expressed genes (DEGs), constructed a miRNA-mRNA network, performed ROC curve analysis, and conducted function enrichment and drug repurposing studies. Our findings identified eight dysregulated genes (H19, SULT1A4, HCK, SPI1, CARD16, NFE2, LST1, and KRT8) common to PCOS, DOR, and RIF, which may serve to distinguish PCOS specifically. Moreover, these DEGs are associated with pathways such as innate immune activation, inflammatory responses, the NOD-like receptor signaling pathway, and Fc gamma R-mediated phagocytosis. Notably, MiRNAs differentially expressed in endometriosis (specifically hsa-miR-202-5p and hsa-miR-141-3p) were found to directly target this gene set, highlighting the role of epigenetic regulation across infertility diseases. Additionally, our drug repurposing analysis identified several FDA-approved drugs, including Abacavir and Peginterferon Alfa-2b, suggesting that the HCK gene may be a viable target for drug development to address female infertility. Furthermore, we identified 192 genes that correlated with DNA methylation and expression levels in PCOS. Thus, this study underscores the epigenetic convergence of different female infertility diseases and highlights potential biomarkers and therapeutic options that could enhance treatment in reproductive medicine.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751911",
+        "title": "Differentiation Syndrome in Acute Myeloid Leukemia: Molecular Mechanisms, Clinical Spectrum, and Emerging Therapeutic Paradigms.",
+        "authors": [
+            "Mansour",
+            "Yaseen",
+            "Abdel Rahman"
+        ],
+        "abstract": {
+            "i": [
+                "NPM1",
+                "FLT3",
+                "FLT3"
+            ],
+            "#text": "Acute myeloid leukemia (AML) is characterized by differentiation arrest, driving blast proliferation, and abnormal blood formation. While differentiation therapy revolutionized acute promyelocytic leukemia (APL) with all-trans retinoic acid (ATRA) and arsenic trioxide (ATO), its extension into non-APL AML has been limited until recent targeted agents. This narrative review synthesizes preclinical and clinical evidence into differentiation-inducing therapy, with a focus on IDH1/2, FLT3 and menin inhibitors. Following SANRA guidelines, we searched PubMed (2010-September 2025) for clinical trials and key preclinical studies, with particular attention to the molecular mechanism of differentiation induction, clinical efficacy, and the management of differentiation syndrome (DS). IDH1/2 inhibitors (ivosidenib, enasidenib, olutasidenib) yield overall response rates (ORRs) of 30-94% in AML with DS in 10-19%. Menin inhibitors (revumenib, ziftomenib, enzomenib, bleximenib) achieve ORRs of 33-88% in KMT2A-rearranged or -mutated AML, with DS in 10-25% and QT prolongation as key toxicities.  inhibitors (gilteritinib, quizartinib) improve survival in -mutated AML with DS in 1-5%. Resistance mutations limit durability and combinations enhance efficacy. Differentiation therapy represents a paradigm shift towards non-cytotoxic AML management. Improved recognition of DS and rational combination approaches will be essential to maximize the therapeutic benefit. Future research should address mechanisms of resistance and biomarkers to achieve cures beyond APL."
+        },
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751910",
+        "title": {
+            "i": "KRAS/NF1",
+            "#text": "Differential Preclinical Efficacy of Combined CDK4/6 and MEK Inhibition in Low-Grade Serous Ovarian Carcinoma Based on  Mutational Status."
+        },
+        "authors": [
+            "Bittner",
+            "Llaurado Fernandez",
+            "Hoenisch",
+            "Leung",
+            "Kim",
+            "Wong",
+            "Pishas",
+            "Cheasley",
+            "Cowley",
+            "Simpson",
+            "Lin",
+            "Volik",
+            "Le Bihan",
+            "Collins",
+            "K\u00f6bel",
+            "Carey"
+        ],
+        "abstract": {
+            "i": [
+                "p",
+                "KRAS",
+                "NF1",
+                "KRAS/NF1"
+            ],
+            "#text": "Low-grade serous ovarian carcinoma (LGSOC) usually presents in advanced stages and is associated with a high mortality rate. Clinical trials targeting the MAPK and cell cycle pathways in LGSOC have shown promising results for its treatment, however there is a need to improve efficacy and define predictive biomarkers to guide patient selection for treatment using these agents. We therefore evaluated cell cycle protein expression by immunohistochemistry (IHC) in 186 LGSOC cases, and evaluated the efficacy of the MEK inhibitor, trametinib, in combination with the CDK4/6 inhibitor, palbociclib, in preclinical models of LGSOC. Abnormal p16 expression was observed in 20% of primary and 46% of recurrent tumors, and it was associated with poorer survival (log-rank  = 0.005). Notably, cell lines with increased sensitivity to trametinib were more likely to harbor mutations in  or  and displayed low pRb levels. Palbociclib showed limited efficacy in vitro; however, the combination of palbociclib and trametinib treatment produced synergistic antiproliferative effects in -wild-type cell lines, which displayed higher pRb levels. Acquired drug resistance was linked to increased cyclin D1/E1 expression. This study confirms abnormal p16 IHC as a negative prognostic marker in LGSOC and establishes key determinants of sensitivity to CDK4/6 inhibitor-based therapy."
+        },
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751900",
+        "title": "Consensus Copy-Number Alteration Signatures from Clinical Panels Enable Pan-Cancer Risk Stratification and Therapy Response Association.",
+        "authors": [
+            "Yaacov"
+        ],
+        "abstract": "Somatic copy-number alterations (CNAs) are pervasive in cancer, but routine targeted panels yield sparse CNA readouts unsuited for CNA signature analysis. We built a consensus framework that integrates four deconvolution algorithms to extract CNA signatures from panel data. Analysis of 24,870 tumors sequenced using MSK-IMPACT identified five reproducible signatures (CON1-CON5). CON5 mirrored near-diploid profiles, whereas the others captured distinct aneuploid patterns. Technical fidelity was confirmed by internal cross-validation and external validation in sarcoma and hepatocellular carcinoma cohorts. Clinically, these signatures were associated with overall survival across tumor types (hazard ratio 1.3-2.5; FDR < 0.01) and provided additive prognostic information beyond Fraction of Genome Altered. Associations with driver mutations (GATA3 in CON1, KRAS in CON5) supported biological specificity, and the signatures delineated resistance landscapes for chemotherapy, hormonal, targeted, and immunotherapy. By converting routine panel data into biologically interpretable prognostic features, our framework enables risk stratification and therapeutic guidance in precision oncology.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751895",
+        "title": "Unmet Needs and Challenges in Cancer-Associated Venous Thromboembolism.",
+        "authors": [
+            "Nusrat",
+            "Khan",
+            "Beg",
+            "Raskob"
+        ],
+        "abstract": "Cancer-associated venous thromboembolism (CA-VTE) is a significant complication in oncology, contributing to morbidity, mortality, and increased healthcare utilization. Due to multiple patient- and disease-related factors, patients with cancer are at a markedly elevated risk for VTE, particularly within the first 6 months of diagnosis. The aim of this review is to provide an overview of current challenges and unmet needs in CA-VTE prediction, prevention and management. While the Khorana score remains the most widely used risk stratification tool, its limited sensitivity has prompted the development of more refined models such as PROTECHT, CONKO, ONKOTEV, Vienna-CATS, and COMPASS-CAT. These models incorporate additional clinical variables including cancer subtype, systemic therapies, comorbidities, and emerging biomarkers. However important gaps remain, particularly in addressing bleeding risk, underrepresented racial/ethnic groups, and adapting to novel cancer therapeutics. Recent clinical trials (AVERT, CASSINI) have supported the use of direct oral anticoagulants (DOACs) for primary and secondary prophylaxis in select high-risk populations. However, anticoagulation strategies in complex populations, including those with thrombocytopenia, brain tumors, or concurrent antiplatelet therapy, remain areas of active investigation. Future directions include the integration of genomics, proteomics, and machine learning into risk modeling to enable precision medicine approaches. Ongoing clinical trials are testing the promise of safer prophylactic and therapeutic strategies. Personalized risk assessment and treatment of CA-VTE remain essential to improving patient outcomes in oncology. By consolidating existing evidence and identifying key unmet needs, this review seeks to guide more personalized and effective management of CA-VTE.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751785",
+        "title": "Integrating Single-Cell and RNA Sequencing to Predict Glioma Prognosis Through Lactylation.",
+        "authors": [
+            "Shen",
+            "Chen",
+            "Li",
+            "Lin"
+        ],
+        "abstract": "Gliomas are the most prevalent primary malignant neoplasms of the central nervous system, distinguished by their high recurrence rates and poor prognosis. Aerobic glycolysis in tumors generates excess lactate, which promotes lactylation, a post-translational modification (PTM). Although accumulating evidence implicates lactylation in glioma initiation and progression, previous lactylation-focused prognostic studies lacked single-cell resolution and broad validation, limiting their generalizability and clinical relevance. Single-cell and bulk RNA sequencing (RNA-seq) data were integrated to identify lactylation-enriched tumor cell populations and derive candidate genes. A risk model was developed using univariate Cox regression and the Least Absolute Shrinkage and Selection Operator (LASSO), and its predictive performance was validated in independent cohorts from the China Glioma Genome Atlas (CGGA). To improve clinical applicability, a nomogram integrating the risk score incorporating key clinical variables was constructed and externally validated. The risk groups showed distinct immune microenvironment profiles and differential drug sensitivity patterns. In this study, we established and validated a lactylation-related gene signature, with the derived risk score serving as a reliable prognostic biomarker for glioma. Furthermore, the model not only predicts overall survival (OS) but also exhibits the potential to inform drug selection and stratify patients for more precise and personalized therapeutic interventions.",
+        "publication_year": "2026",
+        "journal": "International journal of molecular sciences"
+    },
+    {
+        "pmid": "41751568",
+        "title": "Gene Expression-Guided Drug Repurposing in Oncology: Insights from Antiretroviral Agents in Prostate and Bladder Cancer.",
+        "authors": [
+            "Pereira",
+            "Vale"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives",
+                "Methods",
+                "Results",
+                "Conclusions"
+            ],
+            "#text": ": Gene expression-guided drug repurposing has emerged as a strategy to identify new therapy opportunities by associating disease transcriptional signatures with drug-induced gene expression profiles. This is relevant for prostate and bladder cancers, which have high molecular heterogeneity and therapy resistance limits for their standard treatment regimens. Antiretrovirals have been of great interest as repurposed candidates for these cancers due to their various effects on cancer cell pathways. The objective of this review is to assess the principles, applications, and challenges of this approach, with emphasis on antiretrovirals. : This review summarizes published literature on gene expression-based drug repurposing methodologies, including signature reversion, pathway level analysis, and validation studies. Studies applying these concepts to prostate and bladder cancer were analyzed, and evidence of antiretroviral repurposing for cancer therapy was assessed based on transcriptomic alterations, pathway perturbation, and preclinical outcomes. : Transcriptomic-driven studies identified several drug candidates capable of modulating gene expression associated with therapy resistance, tumor progression, and cell stress responses. The anticancer effects of antiretrovirals were shown to be related to cell cycle arrest, apoptosis, metabolic alterations, and proteostasis. Nonetheless, transcriptomic responses are highly context-dependent and can be influenced by tumor subtype and experiment and treatment conditions. Off-target effects can also complicate mechanism interpretation. : Gene expression-guided drug repurposing enables the systematic prioritization of clinically actionable candidates by matching disease and drug transcriptional signatures, but successful translation will require the integration of other omics results, careful model selection, and the development of clinically relevant biomarkers to support mechanism-informed repurposing. Translation will depend on subtype-aware signature matching, integration with complementary omics, and biomarker-backed validation to support precision deployment."
+        },
+        "publication_year": "2026",
+        "journal": "Genes"
+    },
+    {
+        "pmid": "41751537",
+        "title": "Genomic Subtypes and Computational Biomarkers in Non-Muscle-Invasive Bladder Cancer Guiding Optimal Timing of Radical Cystectomy and BCG Response Prediction.",
+        "authors": [
+            "Schi\u021bcu",
+            "Munteanu",
+            "Borz",
+            "Cojocaru",
+            "Morari",
+            "G\u00eerbovan",
+            "Ti\u0219e"
+        ],
+        "abstract": "Non-muscle-invasive bladder cancer (NMIBC) accounts for approximately 70% of newly diagnosed bladder cancer cases but exhibits significant clinical heterogeneity in treatment response and progression risk. While intravesical bacillus Calmette-Gu\u00e9rinCa (BCG) therapy remains the gold standard for high-risk disease, approximately 30-50% of patients experience BCG failure, creating a critical decision point between additional bladder-sparing therapy (BST) and early radical cystectomy (RC). Recent clinical data from the CISTO study suggest that, in appropriately selected patients, RC may be associated with higher 12-month recurrence-free survival while maintaining comparable cancer-specific survival and physical functioning. In this narrative review, we synthesize contemporary evidence on NMIBC genomic and transcriptomic subtypes, immune contexture, and clinicopathologic features associated with BCG response and progression risk, with emphasis on clinically oriented classification systems such as BCG Response Subtypes (BRS1-3) and UROMOL21. We highlight how tumor-intrinsic biology (e.g., EMT-associated programs), immune phenotypes (inflamed vs. immune-cold microenvironments), and genomic alterations may help refine risk stratification beyond traditional clinicopathologic models. To facilitate clinical integration, we propose a conceptual decisional framework that combines molecular subtype assignment, immune profiling, key pathologic risk factors, and patient considerations to generate probabilistic risk tiers that support selection among early RC, BST, and clinical trial strategies. Standardized multicenter cohorts and prospective evaluation are needed to validate integrated models and define their clinical utility for the precision timing of cystectomy in BCG-unresponsive NMIBC.",
+        "publication_year": "2026",
+        "journal": "Genes"
+    },
+    {
+        "pmid": "41751496",
+        "title": "NGAL and HPV Subtypes in Cervical Carcinoma: Implications for Cancer Progression and Treatment Response.",
+        "authors": [
+            "Raci",
+            "Stojkovska",
+            "Hodolli",
+            "Klisarovska",
+            "Dimitrov",
+            "Veseli",
+            "Kameri-Jusufi",
+            "Kurshumliu",
+            "Rizaj",
+            "Sinani"
+        ],
+        "abstract": {
+            "b": [
+                "Background/Objectives",
+                "Methods",
+                "Results",
+                "Conclusion"
+            ],
+            "i": [
+                "p",
+                "p",
+                "p",
+                "p"
+            ],
+            "#text": ": Cervical cancer is a prominent source of morbidity and mortality among women, particularly in low- and middle-income nations. Neutrophil Gelatinase-Associated Lipocalin (NGAL), a glycoprotein involved in cancer-related activities, has been proposed as a biomarker; however, its involvement in cervical cancer remains unknown. The study aim is to evaluate the prognostic significance of serum NGAL levels in cervical cancer patients in relation to International Federation of Gynecology and Obstetrics (FIGO) stage, operability, and HPV subtype distribution before and after treatment. : The study involved 130 women, 100 with histologically proven cervical cancer and 30 healthy controls. The serum NGAL levels were determined before and after treatment using an ELISA test. HPV genotyping was carried out using real-time PCR on 21 high- and low-risk subtypes. : NGAL levels increased marginally during therapy (from 134 to 144 ng/mL;  = 0.28), but the rise was significant in inoperable patients ( = 0.02) and increased with advanced FIGO stage, although this did not reach statistical significance ( = 0.07). HPV 16 was the most common subtype (26.0%), while women aged 51-60 had the highest overall HPV positive rate (72.7%). There was no significant association between NGAL levels and HPV subtypes ( = 0.17). : NGAL does not appear to be an accurate short-term indicator of therapy response. However, increased levels in advanced-stage and inoperable instances indicate prognostic significance. NGAL most likely represents tumor-associated inflammation rather than HPV subtype. These findings support its possible inclusion in future biomarker panels, subject to validation in bigger investigations. Persistent HPV infection in midlife women highlights the significance of ongoing screening."
+        },
+        "publication_year": "2026",
+        "journal": "Current issues in molecular biology"
+    },
+    {
+        "pmid": "41751490",
+        "title": "Admission Serum Inflammatory and Injury Biomarkers Are Associated with In-Hospital Mortality in Neurological Inpatients with Confirmed SARS-CoV-2 Infection: The Brain-COVID Cohort Study.",
+        "authors": [
+            "Zieli\u0144ska-Turek",
+            "Czy\u017cewski",
+            "Turek",
+            "Lyson",
+            "Gajewski",
+            "Gierszon",
+            "Turek",
+            "Ku\u015b-Budzy\u0144ska",
+            "Dorobek"
+        ],
+        "abstract": {
+            "i": "p",
+            "#text": "Patients hospitalized with neurological disorders may be at increased risk of adverse outcomes when infected with SARS-CoV-2. We evaluated whether early routine serum inflammatory and injury markers obtained at hospital admission are associated with in-hospital mortality in this subgroup. This single-center observational cohort included 460 consecutive adult inpatients admitted for neurological disorders with SARS-CoV-2 infection confirmed on admission or during hospitalization. Serum IL-6, LDH, ferritin, hs-troponin I, CRP, procalcitonin, and D-dimers measured within 6 h of hospital admission for neurological disorder were analyzed and compared between survivors and non-survivors. Non-survivors had higher IL-6, LDH, ferritin, and hs-troponin I (all  < 0.001). In multivariable analysis, LDH, ferritin, IL-6, and hs-troponin I were independently associated with mortality. We conclude that in neurological inpatients with confirmed SARS-CoV-2 infection, elevated early IL-6, LDH, ferritin, and hs-troponin I are associated with in-hospital mortality. These markers likely reflect systemic disease severity rather than CNS-specific neuroinflammation and may support early risk stratification in this population."
+        },
+        "publication_year": "2026",
+        "journal": "Current issues in molecular biology"
+    },
+    {
+        "pmid": "41751400",
+        "title": "A Multi-Gene Signature Associated with 1-Year Survival in Patients with Stage I Liver Cancer: Integration of Preclinical and TCGA Data.",
+        "authors": [
+            "Adhikari",
+            "Kallakury",
+            "Dash",
+            "Roy"
+        ],
+        "abstract": "Approximately 50% of individuals diagnosed with Stage I liver cancer live beyond four years; however, a small subset of Stage I patients die within the first year. A prognostic biomarker panel that can identify high-risk Stage I patients may be extremely valuable. In this study, we used the Long-Evans Cinnamon (LEC) rat model of Wilson's Disease and hepatocellular carcinoma (HCC), along with data from The Cancer Genome Atlas (TCGA) human database, to create a novel biomarker panel. We generated and analyzed a rat microarray gene expression profile by comparing liver tumor tissues with adjacent normal tissues from the same animals, covering approximately 30,000 genes. The microarray results were translated into a five-gene panel associated with 1-year survival in Stage I liver cancer patients based on TCGA data, in combination with machine learning and bioinformatics approaches. The panel was internally validated following the \"REporting recommendations for Tumor MARKer prognostic studies (REMARK)\" guidelines. With no existing Stage-I-specific prognostic tools, a biomarker panel associated with 1-year survival in patients with Stage I liver cancer is a potential candidate for rigorous external validation.",
+        "publication_year": "2026",
+        "journal": "Current issues in molecular biology"
+    },
+    {
+        "pmid": "41751395",
+        "title": "Precision Oncology in Ocular Melanoma: Integrating Molecular and Liquid Biopsy Biomarkers.",
+        "authors": [
+            "Ka\u0161telan",
+            "Gilevska",
+            "Tomi\u0107",
+            "\u017divko",
+            "Niku\u0161eva-Marti\u0107"
+        ],
+        "abstract": "Ocular melanomas, comprising uveal melanoma (UM) and conjunctival melanoma (CoM), represent the most common primary intraocular and ocular surface malignancies in adults. Although rare compared with cutaneous melanoma, they exhibit unique molecular landscapes that provide critical opportunities for biomarker-driven precision medicine. In UM, recurrent mutations in GNAQ and GNA11, together with alterations in BAP1, SF3B1, and EIF1AX, have emerged as key prognostic biomarkers that stratify metastatic risk and guide surveillance strategies. Conversely, in CoM, the mutational spectrum overlaps with cutaneous melanoma, with frequent alterations in BRAF, NRAS, NF1, and KIT, offering actionable targets for personalised treatment. Beyond genomics, epigenetic signatures, microRNAs, and protein-based markers provide further insights into tumour progression, microenvironmental remodelling, and immune evasion. In parallel, liquid biopsy has emerged as a minimally invasive approach for real-time disease monitoring. Analyses of circulating tumour DNA (ctDNA), circulating tumour cells (CTCs), and exosome-derived microRNAs demonstrate increasing potential for early detection of minimal residual disease, prognostic assessment, and evaluation of treatment response. However, the clinical integration of these biomarkers remains limited by tumour heterogeneity, technical variability, and the lack of unified translational frameworks. This review synthesises current knowledge of molecular and liquid biopsy biomarkers in ocular melanoma, highlighting their relevance for diagnosis, prognosis, and treatment personalisation. The integration of established tissue-based molecular markers with novel liquid biopsy technologies will enable a unique framework for biomarker-guided precision oncology and risk-adapted surveillance in uveal and conjunctival melanoma, offering insight into strategies for early detection, therapeutic monitoring, and personalised clinical management.",
+        "publication_year": "2026",
+        "journal": "Current issues in molecular biology"
+    },
+    {
+        "pmid": "41751369",
+        "title": "CRISP3, a Potential Tumor Suppressor, Inhibits the Progression of High-Grade Serous Ovarian Carcinoma by Modulating the PI3K/AKT Pathway.",
+        "authors": [
+            "Ma",
+            "Tian",
+            "Cao",
+            "Wang",
+            "Zhang",
+            "Yang",
+            "Cheng",
+            "Gu",
+            "Li",
+            "Zhao",
+            "Shao",
+            "Huang",
+            "Shi",
+            "Xue",
+            "Chu",
+            "Sheng",
+            "Wang"
+        ],
+        "abstract": {
+            "b": [
+                "Background",
+                "Methods",
+                "Results",
+                "Conclusions"
+            ],
+            "sup": "+",
+            "#text": ": Ovarian cancer (OC) remains the most common cause of gynecological cancer-related death, and about 70% of these deaths are from advanced high-grade serous ovarian cancer (HGSOC). Cysteine-rich secretory protein 3 (CRISP3) is related to various human diseases; however, the roles and mechanisms of CRISP3 in HGSOC remain unclear. : The clinical significance of CRISP3 in patients with OC was analyzed using the Cancer Genome Atlas (TCGA) and Gene Expression Omnibus databases. CRISP3 expression in OC tissues was validated by RNA-sequencing (RNA-seq), quantitative PCR, and immunohistochemistry. Furthermore, we explored the effect of CRISP3 expression modulation on the biological behavior of HGSOC through CCK-8, EdU, and Transwell assays in vitro, and the differences in CRISP3 during the progression of HGSOC in vivo. We utilized RNA-seq, GSEA and Western blotting to detect CRISP3's regulatory mechanisms. Finally, we employed data from the IMvigor210 cohort and TCGA to assess the correlation of CRISP3 with clinical response to immunotherapy, and the landscape of immune cell infiltration. : CRISP3 expression was markedly reduced in HGSOC. In vitro studies demonstrated that CRISP3 knockdown significantly enhanced proliferation, migration, and invasion of HGSOC cells, whereas its overexpression suppressed these malignant phenotypes. Moreover, CRISP3 expression was found to be downregulated during OC progression in vivo. Mechanistically, CRISP3 acted as a tumor suppressor through the PI3K/AKT signaling pathway to inhibit the progression and metastasis of HGSOC. Additionally, we observed an association between CRISP3 expression and CD8 T cell, macrophage, neutrophil and Th1 cell infiltration. : We demonstrate that CRISP3 suppresses tumorigenesis in HGSOC by regulating the PI3K/AKT pathway, and that alterations in its expression correlate with disease progression, supporting its utility as a biomarker."
+        },
+        "publication_year": "2026",
+        "journal": "Biomedicines"
+    },
+    {
+        "pmid": "41751273",
+        "title": "RPS6KA1 Remodels Fatty Acid Metabolism and Suppresses Malignant Progression in Colorectal Cancer.",
+        "authors": [
+            "Liu",
+            "Peng"
+        ],
+        "abstract": {
+            "b": [
+                "Background",
+                "Methods",
+                "Results",
+                "Conclusions"
+            ],
+            "i": "p",
+            "sup": "+",
+            "#text": ": Colorectal cancer (CRC), with high incidence but low rates of early diagnosis, poses significant challenges to public health worldwide. Lipid metabolic reprogramming has been closely associated with CRC occurrence and development. This study aimed to identify key fatty acid metabolism-related molecules involved in the development of CRC and to explore potential prognostic biomarkers and therapeutic targets. : Based on The Cancer Genome Atlas (TCGA) data from colon adenocarcinoma (COAD) patients, we applied weighted gene co-expression network analysis (WGCNA), Cox regression, and least absolute shrinkage and selection operator (LASSO) to identify fatty acid metabolism-related signature genes in CRC. Expression validation and prognostic analysis were conducted. Summary-data-based Mendelian randomization (SMR) was used to infer causal relationships between target genes and CRC. Single-cell transcriptomics and immune infiltration analysis elucidated underlying pathogenic mechanisms. Cellular and animal experiments validated tumor-suppressive effects and lipid metabolic regulatory mechanisms. : RPS6KA1 and CHGA were identified as fatty acid metabolism-related signature genes in COAD. Only RPS6KA1 was significantly downregulated in COAD and negatively correlated with poor prognosis ( = 0.0069). SMR confirmed its tumor-suppressive role, potentially associated with enhanced antitumor functions of CD8T cells and follicular helper T cells. In vitro and in vivo experiments demonstrated that RPS6KA1 inhibits malignant progression of colon cancer and modulates fatty acid metabolism. : Integrated multi-dimensional bioinformatic and experimental analyses reveal that RPS6KA1 remodels fatty acid metabolism and suppresses malignant progression, indicating its value as a prognostic biomarker in CRC and providing new insights for therapeutic strategies."
+        },
+        "publication_year": "2026",
+        "journal": "Biomedicines"
+    },
+    {
+        "pmid": "41751264",
+        "title": "Immunosuppressive Environment of Pancreatic NENs-A Review.",
+        "authors": [
+            "Kabut",
+            "Gorzelak-Magiera",
+            "Soko\u0142owski",
+            "\u017belazna",
+            "St\u0119pie\u0144",
+            "Strauchman",
+            "Jaworska",
+            "Kos-Kud\u0142a",
+            "Gisterek-Grocholska"
+        ],
+        "abstract": "Pancreatic neuroendocrine neoplasms (pNENs) are rare tumors with significant biological diversity. Despite significant improvements in diagnostics and a growing range of available therapies, long-term disease control remains difficult in advanced cases. The tumor microenvironment, which in pNENs adopts a predominantly immunosuppressive profile and promotes tumor development, is attracting increasing attention. A complex network of interactions dominates the tumor tissue, including M2 macrophages, regulatory T cells, and numerous pathways that inhibit effector lymphocyte activity. M2 macrophages, through the secretion of anti-inflammatory cytokines and exosome-mediated signaling, support angiogenesis while simultaneously attenuating the cytotoxic response. Simultaneously, receptors and ligands associated with immune checkpoints are overexpressed. In addition to classic molecules such as PD-1/PD-L1 and CTLA-4, the role of B7x and CD276 is increasingly being emphasized, as their presence correlates with rapid disease progression and poor prognosis. To date, attempts to use checkpoint inhibitors as monotherapy have yielded modest clinical benefits. However, approaches based on combination strategies-both in the form of dual immune blockade and in combination with chemotherapy or angiogenesis-targeted therapy-have shown significantly greater activity. Therapies using tyrosine kinase inhibitors, such as sunitinib and newer drugs (lenvatinib, surufatinib, cabozantinib), may partially normalize the tumor's disrupted vascular architecture and thus increase its susceptibility to immunological interventions. In the coming years, it will be crucial not only to overcome the immunosuppressive nature of the TME but also to identify predictive biomarkers that will allow for more precise patient selection. This approach may open the way to more effective, personalized therapies for pNENs.",
+        "publication_year": "2026",
+        "journal": "Biomedicines"
+    },
+    {
+        "pmid": "41751254",
+        "title": "Integrated RNA-seq and RT-qPCR Workflow Identifies Non-IGH Fusion Transcripts as Individualized Molecular Markers for Monitoring Multiple Myeloma.",
+        "authors": [
+            "Ren",
+            "Lu",
+            "Huang",
+            "Zhang",
+            "Gao",
+            "Wang",
+            "Kui",
+            "Liu",
+            "Lou",
+            "Yan"
+        ],
+        "abstract": {
+            "b": [
+                "Background",
+                "Methods:",
+                "Results:",
+                "Conclusions:"
+            ],
+            "i": [
+                "DDX5::EEF1A1",
+                "OAZ1::KLF2",
+                "OAZ1::KLF16",
+                "PFKFB3::LINC02649",
+                "PLXNB2::SCO2"
+            ],
+            "#text": ": Multiple myeloma (MM) is a hematologic malignancy characterized by clonal plasma cell expansion and diverse genomic rearrangements, including immunoglobulin heavy chain (IGH) translocations. Although RNA sequencing enables the comprehensive detection of IGH-associated fusions, routine molecular monitoring remains limited, particularly in non-secretory MM (NSMM), which lacks measurable serologic markers.  Here, we contracted an integrated system combining RNA sequencing (RNA-seq) and reverse transcription quantitative polymerase chain reaction (RT-qPCR) to identify and validate fusion gene-based molecular markers for minimal residual disease (MRD) monitoring.  The global fusion landscape was delineated by the sequencing analysis of bone marrow samples from 22 newly diagnosed patients with MM. A total of 362 fusion events were identified, of which 190 non-immunoglobulin fusions were selected for detailed characterization. Recurrent breakpoints were concentrated on chromosomes 1 and 19, and five recurrent fusions, , , , , and , were detected across nine patients. Functional enrichment analyses indicated the significant involvement of these genes in RNA splicing regulation, transcriptional misregulation in cancer-related pathways, and focal adhesion processes. Twenty-three fusion transcripts were validated using RT-PCR and Sanger sequencing, demonstrating high specificity for MM. Longitudinal monitoring revealed that the quantitative assessment of fusion transcript levels enabled earlier relapse detection than flow cytometry, including in NSMM, where conventional MRD tools are ineffective.  These findings suggest that individualized fusion transcripts serve as robust molecular markers for MRD surveillance. The proposed RNA-seq-RT-qPCR pipeline offers a clinically practical strategy to enhance precision diagnosis and personalized treatment in MM."
+        },
+        "publication_year": "2026",
+        "journal": "Biomedicines"
+    },
+    {
+        "pmid": "41751231",
+        "title": "Type 2 Diabetes Is Associated with Increased Coagulation Activity in Patients with Atrial Fibrillation: A D-Dimer-Based Analysis.",
+        "authors": [
+            "Ciubotaru",
+            "Kohli",
+            "Kundnani",
+            "Buzas",
+            "Neagu",
+            "Preda",
+            "Ivan",
+            "Popa",
+            "Velimirovici",
+            "Lighezan"
+        ],
+        "abstract": {
+            "b": [
+                "Background:",
+                "Methods:",
+                "Results:",
+                "Conclusions:"
+            ],
+            "sub": [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ],
+            "i": [
+                "p",
+                "p"
+            ],
+            "#text": "Atrial Fibrillation (AF) is associated with a prothrombotic state and increased risk of ischemic stroke. Type 2 diabetes mellitus (T2DM) is a major cardiometabolic comorbidity in AF and independently increases thromboembolic risk. D-dimer is a well-established biomarker of coagulation activation and fibrin turnover, but the specific contribution of T2DM to D-dimer levels in AF remains insufficiently characterized in real-world cohorts.  We conducted a retrospective, observational, single-center study including 300 adult patients with non-valvular AF evaluated at a tertiary university hospital. Patients were stratified according to the presence of T2DM (150 with T2DM and 150 without diabetes). Plasma D-dimer levels were compared between groups and analyzed across clinically relevant thresholds and CHADS-VASc categories. Multivariable linear and logistic regression models were used to assess the independent association between T2DM and D-dimer levels after adjustment for demographic factors, comorbidities, renal function, prior stroke, CHADS-VASc score components, and oral anticoagulation.  Patients with T2DM exhibited significantly higher D-dimer levels than non-diabetic patients (median 0.94 vs. 0.63 \u00b5g/mL FEU,  < 0.001). T2DM was independently associated with higher log-transformed D-dimer levels (adjusted \u03b2 = 0.19,  < 0.001) and with increased odds of elevated D-dimer above both 0.5 \u00b5g/mL and 1.0 \u00b5g/mL thresholds. Across all CHADS-VASc categories, patients with T2DM consistently showed higher D-dimer concentrations. Findings remained robust in sensitivity analyses restricted to anticoagulated patients.  In patients with atrial fibrillation, type 2 diabetes mellitus is associated with increased coagulation activity as reflected by higher D-dimer levels, independent of clinical thromboembolic risk. These results support the concept of a diabetes-associated hypercoagulable AF phenotype and highlight the potential role of coagulation biomarkers in refining risk stratification."
+        },
+        "publication_year": "2026",
+        "journal": "Biomedicines"
+    }
+]
