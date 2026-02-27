@@ -1,4 +1,4 @@
-# Task 3 – PubMed Article Extractor
+# PubMed Article Extractor
 
 ## Objective
 Fetch 50 PubMed articles using NCBI E-utilities API for the keyword "oncology biomarkers".
